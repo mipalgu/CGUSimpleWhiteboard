@@ -1,7 +1,0 @@
-module CGlib [system] {
-	umbrella "GLIB_INCLUDE_DIR"
-
-LINKLIBS
-
-	export *
-}
