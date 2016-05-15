@@ -1,5 +1,5 @@
 module CGLib [system] {
-	header "/usr/local/include/glib-2.0/glib.h"
+	header "glib_bridging.h"
 
 	link "gmodule-2.0"
 	link "gobject-2.0"
