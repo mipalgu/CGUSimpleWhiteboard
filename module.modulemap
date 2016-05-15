@@ -1,5 +1,4 @@
 module CGLib [system] {
-	umbrella "/usr/local/include/glib-2.0"
 	header "/usr/local/include/glib-2.0/glib.h"
 
 	link "gmodule-2.0"
