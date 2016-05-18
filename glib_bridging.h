@@ -31,7 +31,6 @@ struct GTestSuite {};
 struct GTimeZone {};
 struct GTimer {};
 struct GTree {};
-struct GType {};
 struct GVariant {};
 struct _GVariantType {};
 struct Mutex {};
