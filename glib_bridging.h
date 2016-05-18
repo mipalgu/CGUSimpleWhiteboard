@@ -37,7 +37,7 @@ struct _GVariantType {};
 struct Mutex {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
-#include <glib.h>
+#include <glib-unix.h>
 #include <glib-object.h>
 #include <glib/gvarianttype.h>
 #include <glib/gthread.h>
