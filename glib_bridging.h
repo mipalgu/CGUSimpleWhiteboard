@@ -8,7 +8,6 @@ struct GDir {};
 struct GHashTable {};
 struct GHmac {};
 struct GKeyFile {};
-struct GLib {};
 struct GMainContext {};
 struct GMainLoop {};
 struct GMappedFile {};
