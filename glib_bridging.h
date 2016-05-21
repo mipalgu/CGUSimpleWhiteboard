@@ -30,8 +30,6 @@ struct _GTimer {};
 struct _GTree {};
 struct _GVariant {};
 struct _GVariantType {};
-struct _GMutex {};
-struct _GRecMutex {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
 #include <glib-unix.h>
