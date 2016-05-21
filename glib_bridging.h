@@ -39,3 +39,4 @@ struct Mutex {};
 #include <glib-object.h>
 #include <glib/gvarianttype.h>
 #include <glib/gthread.h>
+#include <glib/gstdio.h>
