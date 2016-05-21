@@ -30,6 +30,10 @@ struct _GTimer {};
 struct _GTree {};
 struct _GVariant {};
 struct _GVariantType {};
+struct GMutexLocker {};
+struct GSequenceIter {};
+struct GTestCase {};
+struct GTestSuite {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
 #include <glib-unix.h>
