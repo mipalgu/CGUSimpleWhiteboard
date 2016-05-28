@@ -38,6 +38,7 @@ struct GTestSuite {};
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
 #include <glib-unix.h>
 #include <glib-object.h>
+#include <gmodule.h>
 #include <glib/gstdio.h>
 #include <glib/garray.h>
 #include <glib/gasyncqueue.h>
@@ -65,3 +66,4 @@ struct GTestSuite {};
 #include <glib/gtree.h>
 #include <glib/gvariant.h>
 #include <glib/gvarianttype.h>
+#include <gio/gio.h>
