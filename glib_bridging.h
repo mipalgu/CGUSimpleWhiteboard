@@ -216,6 +216,7 @@ struct _GZlibDecompressor {};
 #include <glib/gvariant.h>
 #include <glib/gvarianttype.h>
 #include <gio/gio.h>
+#include <gio/gnetworking.h>
 #include <gio/gdesktopappinfo.h>
 #include <gio/gfiledescriptorbased.h>
 #include <gio/gunixconnection.h>
