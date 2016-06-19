@@ -184,11 +184,8 @@ struct _GVolume {};
 struct _GZlibCompressor {};
 struct _GZlibDecompressor {};
 
-struct _GDtlsClientConnectionInterface {};
 struct _GDtlsClientConnection {};
-struct _GDtlsConnectionInterface {};
 struct _GDtlsConnection {};
-struct _GDtlsServerConnectionInterface {};
 struct _GDtlsServerConnection {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
