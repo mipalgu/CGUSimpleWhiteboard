@@ -1,4 +1,4 @@
-module CGLib [system] {
+module CGLib [system] [swift_infer_import_as_member] {
 	header "glib_bridging.h"
 
 	link "gmodule-2.0"
