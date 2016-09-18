@@ -190,6 +190,7 @@ struct _GDtlsServerConnection {};
 
 #define GLIB_DISABLE_DEPRECATION_WARNINGS
 #include <unistd.h>
+#include <termios.h>
 #include <glib-unix.h>
 #include <glib-object.h>
 #include <gmodule.h>
