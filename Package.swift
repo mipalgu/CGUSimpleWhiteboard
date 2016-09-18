@@ -1,3 +1,3 @@
 import PackageDescription 
 
-let package = Package(name: "CGLib")
+let package = Package(name: "CGUSimpleWhiteboard")
