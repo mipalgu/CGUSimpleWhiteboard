@@ -28,7 +28,7 @@
 #include <gusimplewhiteboard/typeClassDefs/wb_lines.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_nao_state.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_nxt_interface.h>
-#include <gusimplewhiteboard/typeClassDefs/wb_oculus_prime_interface.h>
+//#include <gusimplewhiteboard/typeClassDefs/wb_oculus_prime_interface.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_oculus_prime_serial.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_point.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_point2d.h>
