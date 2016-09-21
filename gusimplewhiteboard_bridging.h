@@ -1,3 +1,6 @@
+#include <unistd.h>
+#include <termios.h>
+
 #define WHITEBOARD_POSTER_STRING_CONVERSION
 #include <gusimplewhiteboard/gusimplewhiteboard.h>
 
