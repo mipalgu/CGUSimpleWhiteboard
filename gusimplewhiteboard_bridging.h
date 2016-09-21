@@ -17,8 +17,8 @@
 #include <gusimplewhiteboard/typeClassDefs/wb_filteredvisionobject.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_fsm_control_status.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_fsm_state_status.h>
-#include <gusimplewhiteboard/typeClassDefs/wb_giraff_main_serial.h>
-#include <gusimplewhiteboard/typeClassDefs/wb_goal.h>
+//#include <gusimplewhiteboard/typeClassDefs/wb_giraff_main_serial.h>
+//#include <gusimplewhiteboard/typeClassDefs/wb_goal.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_hal_headtarget.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_input3d.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_io_pins.h>
