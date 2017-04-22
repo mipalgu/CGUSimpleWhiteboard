@@ -58,3 +58,5 @@
 
 #include <gusimplewhiteboard/guwhiteboardgetter.h>
 #include <gusimplewhiteboard/guwhiteboardtypelist_c_generated.h>
+
+#include <gusimplewhiteboard/compression/compression.h>
