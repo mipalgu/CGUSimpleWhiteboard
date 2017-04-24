@@ -55,6 +55,7 @@
 #include <gusimplewhiteboard/typeClassDefs/wb_teleoperation.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_walk2014_controlstatus.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_walk_controlstatus.h>
+#include <gusimplewhiteboard/typeClassDefs/wb_hal_armtarget.h>
 
 #include <gusimplewhiteboard/guwhiteboardgetter.h>
 #include <gusimplewhiteboard/guwhiteboardtypelist_c_generated.h>
