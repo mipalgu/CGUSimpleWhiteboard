@@ -4,7 +4,6 @@
 #define WHITEBOARD_POSTER_STRING_CONVERSION
 #include <gusimplewhiteboard/gusimplewhiteboard.h>
 
-#include <gusimplewhiteboard/typeClassDefs/wb_apm_interface.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredballobjects.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredsonarobjects.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredvisionobjects.h>
