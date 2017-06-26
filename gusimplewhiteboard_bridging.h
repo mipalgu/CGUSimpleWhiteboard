@@ -5,7 +5,7 @@
 #include <gusimplewhiteboard/gusimplewhiteboard.h>
 
 #include <gusimplewhiteboard/typeClassDefs/wb_apm_interface.h>
-#include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredballobjects.h>
+#include <gusimplewhiteboard/typeClassDefs/wb_filtered_arrayballsightings.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredsonarobjects.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredvisionobjects.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_ball.h>
@@ -17,7 +17,7 @@
 #include <gusimplewhiteboard/typeClassDefs/wb_differential_robot.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_fft_frequencies.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_filteredsonarobject.h>
-#include <gusimplewhiteboard/typeClassDefs/wb_filteredvisionobject.h>
+#include <gusimplewhiteboard/typeClassDefs/wb_filtered_vision_object.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_fsm_control_status.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_fsm_state_status.h>
 //#include <gusimplewhiteboard/typeClassDefs/wb_giraff_main_serial.h>
