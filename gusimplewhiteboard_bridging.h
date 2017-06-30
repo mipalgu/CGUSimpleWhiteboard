@@ -6,7 +6,6 @@
 
 #include <gusimplewhiteboard/typeClassDefs/wb_apm_interface.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredsonarobjects.h>
-#include <gusimplewhiteboard/typeClassDefs/wb_arrayoffilteredvisionobjects.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_ball.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_button.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_buttons_status.h>
