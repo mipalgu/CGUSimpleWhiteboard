@@ -32,6 +32,7 @@
 #include <gusimplewhiteboard/typeClassDefs/wb_nxt_interface.h>
 //#include <gusimplewhiteboard/typeClassDefs/wb_oculus_prime_interface.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_oculus_prime_serial.h>
+#include <gusimplewhiteboard/typeClassDefs/wb_particle_position.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_point.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_point2d.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_sensors_body.h>
@@ -52,6 +53,7 @@
 #include <gusimplewhiteboard/typeClassDefs/wb_switch_subsumption.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_switch_subsumption_traffic_lights.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_teleoperation.h>
+#include <gusimplewhiteboard/typeClassDefs/wb_top_particles.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_walk2014_controlstatus.h>
 #include <gusimplewhiteboard/typeClassDefs/wb_walk_controlstatus.h>
 
