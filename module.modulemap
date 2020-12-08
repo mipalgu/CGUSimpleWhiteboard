@@ -2,6 +2,8 @@ module CGUSimpleWhiteboard [system] [swift_infer_import_as_member] {
 	header "gusimplewhiteboard_bridging.h"
 
 	link "gusimplewhiteboard"
+    link "guunits"
+    link "gucoordinates"
 
 	export *
 }
